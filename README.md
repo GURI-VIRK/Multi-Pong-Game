@@ -12,4 +12,4 @@ Simple ***Multiplayer Pong Game*** using python
 The email which is located in GitHub profile.
 
 ## Developer
-Dietist-App is developed by Gurbakhshish Virk.
+Multi-Pong-Game is developed by Gurbakhshish Virk.
