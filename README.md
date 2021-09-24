@@ -2,8 +2,14 @@
 ## About
 Simple ***Multiplayer Pong Game*** using python
 
-## Built With
+## Prerequisites
 - [Turtle Library](https://docs.python.org/3/library/turtle.html).
 
-## Support
-- The email which is located in GitHub profile.
+## Installation
+- to run the app on your machine, all what you need are the prerequisites mentioned above...
+
+## Support 
+The email which is located in GitHub profile.
+
+## Developer
+Dietist-App is developed by Gurbakhshish Virk.
